@@ -1,8 +1,0 @@
-- name: Create account.txt
-  run: |
-    echo '{
-      "cookies": [
-        {"name":"c_user","value":"100094141593150","domain":".facebook.com"},
-        {"name":"xs","value":"YOUR_XS_COOKIE_HERE","domain":".facebook.com"}
-      ]
-    }' > account.txt
